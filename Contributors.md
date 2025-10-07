@@ -1134,6 +1134,7 @@
 - [Ajay Dongare](https://github.com/GluconicAcid)
 - [Akshit Garg](https://github.com/AkshitGarg054)
 - [Algacyr Melo](https://github.com/algacyr-melo)
+- [ClaireHaynes700](https://github.com/ClaireHaynes700)
 - [Algorytmouse](https://github.com/algorytmouse)
 - [Alonso Jimenez](https://github.com/alonsojmnz)
 - [Aman Bangera](https://github.com/amanbangeraa)
